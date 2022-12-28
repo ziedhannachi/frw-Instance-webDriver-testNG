@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-04T22:33:08 CET" name="Suite" finished-at="2022-03-04T22:33:27 CET" duration-ms="19956">
+    <groups>
+    </groups>
+    <test started-at="2022-03-04T22:33:08 CET" name="Test" finished-at="2022-03-04T22:33:27 CET" duration-ms="19956">
+      <class name="com.todo.TestRunnerDriver">
+        <test-method signature="test1()[pri:0, instance:com.todo.TestRunnerDriver@49e53c76]" started-at="2022-03-04T22:33:08 CET" name="test1" finished-at="2022-03-04T22:33:27 CET" duration-ms="19816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1()[pri:0, instance:com.todo.TestRunnerDriver@49e53c76]" started-at="2022-03-04T22:33:08 CET" name="test1" finished-at="2022-03-04T22:33:27 CET" duration-ms="19527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1()[pri:0, instance:com.todo.TestRunnerDriver@49e53c76]" started-at="2022-03-04T22:33:08 CET" name="test1" finished-at="2022-03-04T22:33:26 CET" duration-ms="18806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1()[pri:0, instance:com.todo.TestRunnerDriver@49e53c76]" started-at="2022-03-04T22:33:08 CET" name="test1" finished-at="2022-03-04T22:33:27 CET" duration-ms="19596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.todo.TestRunnerDriver -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
